@@ -10,13 +10,13 @@ Please ensure you fully understand and adhere to legal and ethical guidelines wh
 
 <h2>Components</h2>
 
-    Malware: The client-side program that infects a target system.<br />
-    C2 Server: The server-side application that controls the infected machines.<br />
-    Keylogger: A tool to capture and log keystrokes on the infected system.<br />
+    Malware: The client-side program that infects a target system.
+    C2 Server: The server-side application that controls the infected machines.
+    Keylogger: A tool to capture and log keystrokes on the infected system.
 
 <h2>Features</h2>
 
-    Remote Access: Control the infected machine remotely.<br />
-    Data Exfiltration: Extract data from the target machine.<br />
-    Keylogging: Capture and record keystrokes for analysis.<br />
-    Command Execution: Execute commands on the infected machine from the C2 server.<br />
+    Remote Access: Control the infected machine remotely.
+    Data Exfiltration: Extract data from the target machine.
+    Keylogging: Capture and record keystrokes for analysis.
+    Command Execution: Execute commands on the infected machine from the C2 server.
